@@ -16,57 +16,59 @@
     padding: 250px;
     text-align: center;
 }
+#CoD {
+    background-image: url("Images/COD.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 250px;
+    text-align: center;
+}
+.oddrow { 
+	background-color: #C36700;
+}
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
 }
-
 header {
     background-color: #0b3e96;
     color: #C36700;
     text-align: center;
     padding: 10px;
 }
-
 header h1 {
     font-size: 28px;
     margin: 0;
     padding: 0;
 }
-
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     text-align: center;
 }
-
 nav ul li {
     display: inline;
     margin: 0 20px;
 }
-
 nav ul li a {
     text-decoration: none;
     color: #C36700;
 }
-
 main {
     padding: 20px;
 }
-
 section {
     background-color: #259CFF;
 	color: #0b3e96;
     padding: 20px;
     text-align: center;
 }
-
 section h2 {
     font-size: 24px;
 }
-
 footer {
     background-color: #C36700;
     color: white;
